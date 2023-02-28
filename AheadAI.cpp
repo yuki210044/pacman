@@ -42,7 +42,7 @@ XMFLOAT3 AheadAI::ChasePlayer(GameObject* pEnemy)
         count3++;
     }
 
-    if (count >= 21)
+    if (count >= 15)
     {
         if (count2 >= 0)
         {
